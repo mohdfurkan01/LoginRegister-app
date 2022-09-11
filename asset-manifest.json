@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LoginRegister-app/static/css/main.1e1ea1c9.css",
+    "main.js": "/LoginRegister-app/static/js/main.7fe43260.js",
+    "index.html": "/LoginRegister-app/index.html",
+    "main.1e1ea1c9.css.map": "/LoginRegister-app/static/css/main.1e1ea1c9.css.map",
+    "main.7fe43260.js.map": "/LoginRegister-app/static/js/main.7fe43260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1ea1c9.css",
+    "static/js/main.7fe43260.js"
+  ]
+}
